@@ -26,8 +26,8 @@ Hello! I'm Kalaiventhan, a student at Karpagam College of Engineering. Here's a 
 I'm currently working on various projects to enhance my skills in software development and web development. Stay tuned for updates!
 
 ## Connect with Me
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile)
-- Email: your.email@example.com
+- GitHub: [GitHub](https://github.com/KKALAIVENTHAN)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/k-kalaiventhan-227109254/)
+- Email: [E-mail](kalsikalai7@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on any projects or discuss shared interests!
