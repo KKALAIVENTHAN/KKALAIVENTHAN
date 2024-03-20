@@ -28,6 +28,5 @@ I'm currently working on various projects to enhance my skills in software devel
 ## Connect with Me
 - GitHub: [GitHub](https://github.com/KKALAIVENTHAN)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/k-kalaiventhan-227109254/)
-- Email: [E-mail](kalsikalai7@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on any projects or discuss shared interests!
