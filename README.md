@@ -8,14 +8,13 @@ Hello! I'm Kalaiventhan, a student at Karpagam College of Engineering. Here's a 
 
 ## Skills
 - **Programming Languages:**
-  - Kotlin
-  - C
-  - Java
+  - java
+  - python
 - **Web Development:**
   - HTML
   - CSS
 - **Design Tools:**
-  - Currently learning Figma
+  - Figma
 
 ## Interests
 - Software Development
